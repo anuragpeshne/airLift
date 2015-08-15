@@ -9,5 +9,5 @@ easiest way to transfer files between computers over network.
     ```python3 -m http.server``` or ```python -m SimpleHTTPServer```
 1. Get the IP Address by executing ```ifconfig```
 1. Execute ```python lift2.py {ipAddress:port} {extension}```
-   You can also pass file extension in arguments. Example: ```python lift2.py http://10.0.0.7:8000 mp4```
+   You can also pass file extensions in arguments. Example: ```python lift2.py http://10.0.0.7:8000 mp4 mpg mp3```
 1. Profit!
